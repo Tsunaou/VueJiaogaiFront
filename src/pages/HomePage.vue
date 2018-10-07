@@ -19,6 +19,9 @@
         <!-- cards -->
         <div class="wrapper">
           <page1-card1></page1-card1>
+          <page1-card1></page1-card1>
+          <page1-card1></page1-card1>
+          <page1-card1></page1-card1>
           <div class="card">
             <div class="card__container card__container--closed">
               <svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">
